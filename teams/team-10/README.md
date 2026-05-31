@@ -16,6 +16,24 @@ PlasticWise AI is an enterprise-grade GenAI application designed to help large i
 8. **Contextual Chatbot**: Grounded AI chatbot answering compliance and operational queries based on Central Pollution Control Board (CPCB) guidelines.
 
 ---
+## 🎥 Demo Video
+
+A complete demonstration of PlasticWise AI, including:
+
+* Structured Waste Audit Entry
+* PWM Rules 2016 Compliance Analysis
+* EPR Obligation Assessment
+* AI-Powered Waste Reduction Roadmap
+* DOCX/PDF Audit Report Generation
+* Sustainability Dashboard
+* Context-Aware AI Chatbot
+
+Demo Video:
+
+https://drive.google.com/file/d/1xpld-zWGYBVAqfkd9S_hcbuag0Xo5wPM/view
+
+---
+
 
 ## 📁 Repository Structure
 
